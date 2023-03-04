@@ -10,8 +10,6 @@ import SwiftUI
 struct Controls: View {
     var body: some View {
         ZStack {
-            Color(.blue)
-                .edgesIgnoringSafeArea(.all)
             Text("Controls")
         }
     }
