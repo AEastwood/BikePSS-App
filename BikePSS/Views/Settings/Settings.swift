@@ -1,5 +1,5 @@
 //
-//  Map.swift
+//  Settings.swift
 //  BikePSS
 //
 //  Created by Adam Eastwood on 04/03/2023.
@@ -7,14 +7,14 @@
 
 import SwiftUI
 
-struct Map: View {
+struct SettingsView: View {
     var body: some View {
-        Text("Map")
+        Text("Settings")
     }
 }
 
-struct Map_Previews: PreviewProvider {
+struct Settings_Previews: PreviewProvider {
     static var previews: some View {
-        Map()
+        SettingsView()
     }
 }
